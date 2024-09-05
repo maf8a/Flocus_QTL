@@ -58,7 +58,7 @@ plot(susc)#summary plots of data
 the 10 chromosomes - Histogram of susceptible (1) and resistant (0)
 shows slightly more susceptible
 
-\#\#\#¶ INTERVAL MAPPING
+### INTERVAL MAPPING
 
 Calculate conditional genotype probabilities (predicts genotypes at
 specified locations between markers. This is required before interval
